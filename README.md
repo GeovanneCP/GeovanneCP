@@ -14,7 +14,7 @@
 ---
 
 ### 📂 Portfólio
-- [📘 
+- [📘 https://github.com/GeovanneCP/GS]
 - [📘
 
 ---
