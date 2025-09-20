@@ -3,7 +3,7 @@
 - 🔍 Atualmente estou à procura de emprego na área  
 - 🎓 Estou cursando análise e desenvolvimento de sistemas  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanne-coneglian-775472353/)
 
 ---
