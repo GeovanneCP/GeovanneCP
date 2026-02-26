@@ -1,4 +1,4 @@
-# Boa tarde a todos meu nome é Geovanne 👋
+# Óla a todos meu nome é Geovanne 👋
 
 - 🔍 Atualmente estou à procura de emprego na área  
 - 🎓 Estou cursando análise e desenvolvimento de sistemas
