@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeovanneCP&show_icons=true&theme=radical&include_all_commits=true" alt="Geovanne's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeovanneCP&theme=radical" alt="Geovanne's Streak Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanneCP&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
