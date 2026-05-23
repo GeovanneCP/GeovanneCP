@@ -1,6 +1,6 @@
 # Olá a todos, meu nome é Geovanne 👋
 
-- 🔍 Atualmente estou à procura de emprego na área de Tecnologia / Desenvolvimento
+- 🔍 Buscando oportunidades como Desenvolvedor (Back-End / Mobile / Full-Stack)
 - 🎓 Cursando: Análise e Desenvolvimento de Sistemas
 - 🎓 Concluído: Desenvolvimento em JavaScript — SENAI
 - 🎓 Concluído: Desenvolvimento em Java
@@ -11,7 +11,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanneCP&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeovanneCP&show_icons=true&theme=radical&include_all_commits=true" alt="Geovanne's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanneCP&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
 ---
 
