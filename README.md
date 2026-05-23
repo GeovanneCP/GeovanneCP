@@ -1,8 +1,9 @@
 # Olá a todos, meu nome é Geovanne 👋
 
-- 🔍 Buscando oportunidades como Desenvolvedor (Back-End / Mobile / Full-Stack)
+- 🔍 Buscando oportunidades como Desenvolvedor 
 - 🎓 Cursando: Análise e Desenvolvimento de Sistemas
 - 🎓 Concluído: Desenvolvimento em JavaScript — SENAI
+- 🎓 Concluído: Desenvolvimento IA900 Azure 
 - 🎓 Concluído: Desenvolvimento em Java
 - 🎓 Concluído: Python com Data Science
 
